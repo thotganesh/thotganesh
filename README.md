@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" style="border-radius: 50%;" alt="THMNEW" src="[INCOLLA_QUI_IL_NUOVO_LINK_DI_GITHUB](https://github.com/user-attachments/assets/66e312f6-57f2-465e-aca3-b2cd8c75f472)" />
+  <img width="250" style="border-radius: 50%;" alt="THMNEW" src="https://github.com/user-attachments/assets/66e312f6-57f2-465e-aca3-b2cd8c75f472" />
 </div>
 
 ### 👋 Hello, I'm Amonra5
