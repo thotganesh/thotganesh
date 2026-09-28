@@ -36,5 +36,4 @@ System, Network & Cybersecurity Administrator with a strong entrepreneurial back
 
 📫 **How to reach me:**
 
-* Website: [neopc.eu](https://neopc.eu)
 * TryHackMe: [Amonra5](https://tryhackme.com/p/Amonra5)
