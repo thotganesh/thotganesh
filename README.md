@@ -1,7 +1,6 @@
 <div align="center">
   <img width="250" style="border-radius: 50%;" alt="THMNEW" src="https://github.com/user-attachments/assets/66e312f6-57f2-465e-aca3-b2cd8c75f472" />
 </div>
-
 ### 👋 Hello, I'm Amonra5
 
 System, Network & Cybersecurity Administrator with a strong entrepreneurial background (**NEOPC**) and advanced technical support experience. I specialize in designing, implementing, and securing custom IT infrastructures, blending reliable system administration with offensive and defensive cybersecurity practices.
