@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="![Uploading THMNEW.gif…]()" width="100%" alt="Banner"/>
-</div>
+<img width="610" height="607" alt="THMNEW" src="https://github.com/user-attachments/assets/553ab40f-1fb1-4e5b-b42a-1cf3d28fadc2" />
 
 ### 👋 Hello, I'm Amonra5
 
